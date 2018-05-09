@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CalculateAge</string>
+    <string name="header">حساب العمر</string>
+    <string name="year">Year of Birth...</string>
+    <string name="month">Month of Birth...</string>
+    <string name="day">Day of Birth...</string>
+    <string name="year_alt">Current Year...</string>
+    <string name="month_alt">Current Month...</string>
+    <string name="day_alt">Current Day...</string>
+    <string name="not_correct">تاريخ الهاتف غير صحيح</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
